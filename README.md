@@ -1,5 +1,4 @@
 # CUSTOMER CHURN PREDICTION USING MACHINE LEARNING
-# 📊 Customer Churn Prediction Using Machine Learning
 
 ## 📌 Project Overview
 
@@ -162,16 +161,6 @@ Include screenshots of:
 
 ---
 
-## 🚀 Future Improvements
-
-* Improve prediction accuracy using advanced algorithms.
-* Apply hyperparameter tuning.
-* Connect the application to a real-time database.
-* Deploy the application on cloud platforms.
-* Add a customer retention recommendation system.
-
----
-
 ## 👩‍💻 Author
 
 **Krutika Kondagule**
@@ -182,6 +171,3 @@ Vishwakarma University, Pune
 
 ---
 
-## 📜 License
-
-This project was developed for academic and learning purposes as part of the Summer Internship Program.
