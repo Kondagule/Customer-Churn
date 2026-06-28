@@ -120,35 +120,6 @@ Customer-Churn-Prediction/
 ```
 
 ---
-
-## ▶️ How to Run the Project
-
-### Clone the repository
-
-```bash
-git clone https://github.com/your-username/customer-churn-prediction.git
-```
-
-### Navigate to the project folder
-
-```bash
-cd customer-churn-prediction
-```
-
-### Install the required libraries
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the Streamlit application
-
-```bash
-streamlit run app.py
-```
-
----
-
 ## 📷 Project Screenshots
 
 Include screenshots of:
